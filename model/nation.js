@@ -1,0 +1,3 @@
+class nation{
+    name
+}
